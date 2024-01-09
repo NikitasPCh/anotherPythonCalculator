@@ -26,6 +26,7 @@ def clear():
 
 
 root = tk.Tk()
+# Some visual formatting for better presentation
 root.title("Calculator")
 root.geometry("350x300")
 root.minsize(350, 300)
